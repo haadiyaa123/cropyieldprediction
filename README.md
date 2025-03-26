@@ -77,7 +77,7 @@ Feel free to **fork** this repository, submit **pull requests**, or open **issue
 
 ## Contact
 
-For any queries, reach out to **[your-email@example.com](mailto\:hadiyajaleel10@gmail.com)**.
+For any queries, reach out to **[hadiyajaleel10@gmail.com](mailto\:your-email@example.com)**.
 
 ---
 
